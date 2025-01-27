@@ -1,12 +1,12 @@
 // ---------- Insert Your Data ---------- //
 
-const BOT_TOKEN = "BOT_TOKEN"; // Insert your bot token.
+const BOT_TOKEN = "7716954907:AAGvI5HjGPN9zQWDs8FQ2lrseFCd59GwsiE"; // Insert your bot token.
 const BOT_WEBHOOK = "/endpoint"; // Let it be as it is.
-const BOT_SECRET = "BOT_SECRET"; // Insert a powerful secret text (only [A-Z, a-z, 0-9, _, -] are allowed).
-const BOT_OWNER = 123456789; // Insert your telegram account id.
-const BOT_CHANNEL = -100123456789; // Insert your telegram channel id which the bot is admin in.
-const SIA_SECRET = "SIA_SECRET"; // Insert a powerful secret text and keep it safe.
-const PUBLIC_BOT = false; // Make your bot public (only [true, false] are allowed).
+const BOT_SECRET = "MUK@2008"; // Insert a powerful secret text (only [A-Z, a-z, 0-9, _, -] are allowed).
+const BOT_OWNER = 6140243372; // Insert your telegram account id.
+const BOT_CHANNEL = -1002457416006; // Insert your telegram channel id which the bot is admin in.
+const SIA_SECRET = "Sur@2006"; // Insert a powerful secret text and keep it safe.
+const PUBLIC_BOT = true; // Make your bot public (only [true, false] are allowed).
 
 // ---------- Do Not Modify ---------- // 
 
